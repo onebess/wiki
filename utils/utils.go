@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/onebss/wiki/cache"
-	"github.com/onebss/wiki/models"
+	"github.com/onebess/wiki/cache"
+	"github.com/onebess/wiki/models"
 )
 
 const (

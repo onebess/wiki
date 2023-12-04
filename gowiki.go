@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/onebss/wiki/cache"
-	"github.com/onebss/wiki/page"
-	"github.com/onebss/wiki/utils"
+	"github.com/onebess/wiki/cache"
+	"github.com/onebess/wiki/page"
+	"github.com/onebess/wiki/utils"
 )
 
 /*

@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/onebss/wiki/models"
+	"github.com/onebess/wiki/models"
 )
 
 var (

@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 	"github.com/anaskhan96/soup"
-	"github.com/onebss/wiki/models"
-	"github.com/onebss/wiki/utils"
+	"github.com/onebess/wiki/models"
+	"github.com/onebess/wiki/utils"
 
 	"reflect"
 	"strconv"

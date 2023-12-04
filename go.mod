@@ -1,4 +1,4 @@
-module github.com/onebss/wiki
+module github.com/onebess/wiki
 
 go 1.18
 
